@@ -1,1 +1,6 @@
 node_modules
+.env
+.history
+voice-assistant/.env
+voice-assistant/.history
+.env
